@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://drive.usercontent.google.com/download?id=1IgqL1t6CLfqHePUkg3-5BzZXBVmZUg1J&export=download&authuser=0&confirm=t&uuid=275efade-f7c9-4571-90e7-3c134a8a6b31&at=AN8xHoquRvAWQkuC8ftJ4DEivqy2:1757941333373
 
 jobs:
   build:
